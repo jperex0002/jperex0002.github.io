@@ -3638,7 +3638,7 @@ body .u-icon-v5 { background: transparent !important; }
 .u-shadow-v27 { box-shadow: 0 0 3px #b5b5b5; }
 
 /*------------------------------------ Box-shadows-v28 ------------------------------------*/
-.u-shadow-v28 { box-shadow: 0 10px 45px -5px rgba(0, 0, 0, 0.04); }
+.u-shadow-v28 { box-shadow: 0 10px 45px -5px rgba(0, 0, 0, 0.04); background-color: rgba(255,255,255,0.2);}
 
 /*------------------------------------ Box-shadows-v29 ------------------------------------*/
 .u-shadow-v29 { box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.1); }
